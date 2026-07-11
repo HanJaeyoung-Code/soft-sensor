@@ -77,8 +77,8 @@ control charts instead of regression) flagged as the point where good and bad ba
 to separate. Two unrelated methods landing on the same number is a much better feeling than
 either one alone.
 
-![soft sensor parity and live tracking](assets/soft_sensor_results.png)
-![early-warning cutoff sweep](assets/early_warning_results.png)
+![soft sensor parity and live tracking](soft_sensor_results.png)
+![early-warning cutoff sweep](early_warning_results.png)
 
 ## Pipeline
 
